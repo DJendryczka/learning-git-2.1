@@ -1,0 +1,21 @@
+header {
+    background: blue;
+
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+main {
+    background: burlywood;
+}
+
+footer {
+    background: black;
+}
+
+footer p {
+    color: white;
+}
